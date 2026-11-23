@@ -6,3 +6,5 @@ Hi! I'm Sunil Hegde, a B.Tech Computer Science and Engineering student at REVA U
 Learning Python and C++ programming.
 
 Interested in cybersecurity, cloud computing, and software development.
+
+Goal: Build real-world software projects and contribute to open source.
