@@ -1,10 +1,6 @@
 
-# Sunil Hegde
+## Projects
 
-Hi! I'm Sunil Hegde, a B.Tech Computer Science and Engineering student at REVA University. I'm passionate about technology, software development, cybersecurity, and building real-world projects. This repository is part of my portfolio-building journey, where I document my learning, skills, interests, and goals.
+- **Portfolio Website:** A personal website showcasing my profile, skills, and projects using GitHub Pages.
 
-Learning Python and C++ programming.
-
-Interested in cybersecurity, cloud computing, and software development.
-
-Goal: Build real-world software projects and contribute to open source.
+- **Programming Practice:** Basic programs developed using C, C++, Python, and Java.
